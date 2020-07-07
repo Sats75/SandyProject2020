@@ -44,7 +44,14 @@ public class DataTypes {
 		String y="world";
 				
 		System.out.println(x+y+(a+b));
-			
+		
+		int a1=100;
+		int b9=200;
+		String x1="GIT";
+		String y1="Code";
+				
+		System.out.println(x1+y1+(a1+b9));
+		
 		
 	}
 
